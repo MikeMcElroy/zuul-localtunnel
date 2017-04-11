@@ -13,7 +13,7 @@
     "localtunnel"
   ],
   "dependencies": {
-    "MikeMcElroy/localtunnel": "1.8.2"
+    "localtunnel": "https://github.com/MikeMcElroy/localtunnel"
   },
   "author": "Mike McElroy <mikemaccs@gmail.com>",
   "license": "MIT"
